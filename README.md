@@ -1,6 +1,7 @@
 # Dice Roller Game
 
-![Dice Roller Screenshot](Images/Screenshot 2025-07-28 150649.png)
+![Dice Roller Screenshot](Images/Screenshot%202025-07-28%20150649.png)
+
 
 Try it live here: [Dice Roller Game](https://alpha1207vj.github.io/Dice-Roller-PROGRAM/)
 
